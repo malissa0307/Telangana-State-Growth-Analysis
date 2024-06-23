@@ -1,2 +1,7 @@
 # Telangana-State-Growth-Analysis
-The objective was to examine Telangana's progress in different areas, providing useful information to the Telangana government. This analysis was carried out using Power BI, it aims to help officials make informed choices backed by data, supporting the ongoing development of the state.
+
+This project served as my entry for the Codebasics Resume Project Challenge #7, conducted in collaboration with the Telangana Government and their Open Data Portal.
+
+Objective: The aim was to analyze Telangana's growth across various sectors in a quantitative manner, offering valuable insights to the Telangana government. These insights are intended to assist in making well-informed decisions based on data, contributing to the continued development of the state.
+
+Data Source: I utilized datasets from Open Data Telangana, made available by the Telangana Government for public access. A sincere appreciation to the government for providing real-time datasets—a valuable resource for learning. Feel free to explore these datasets here: (https://data.telangana.gov.in/).
